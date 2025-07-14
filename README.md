@@ -1,1 +1,1 @@
-# inventory-management-Microservice
+# inventory-service
